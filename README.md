@@ -68,8 +68,6 @@ Students can:
 
     view previous recommendations
     access saved results
-
-
     User opens the application
     App connects to Firebase
     Departments are retrieved
@@ -107,6 +105,6 @@ Steps
 👨‍💻 Developed By
 
 Mekdes Berhe
-📄 License
 
+📄 License
 This project is for educational and academic purposes only.
