@@ -3,11 +3,11 @@ MU Department Choice App
 A beginner-friendly Android application developed in Android Studio that helps students choose the most suitable university department based on their interests and preferences.
 
 The application provides department information, recommendation results, and history management using Firebase as the cloud database.
+
 📱 Application Name
-
 MU Department Choice
-🎯 Project Objective
 
+🎯 Project Objective
 The main objective of this project is to assist students in selecting appropriate university departments by:
 
     Displaying available departments
