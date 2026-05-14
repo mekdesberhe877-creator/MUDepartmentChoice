@@ -1,93 +1,121 @@
-MU Department Choice App
-A beginner-friendly Android application developed in Android Studio that helps students choose the most suitable university department based on their interests and preferences.
+# 📱 MU Department Choice App
 
-The application provides department information, recommendation results, and history management using Firebase as the cloud database.
+A beginner-friendly Android application developed using android studio that helps university students choose the most suitable department based on their interests, skills, and preferences.
+The application provides department information, recommendation results, and history management using firebase
+as the cloud database.
 
-📱 Application Name
-MU Department Choice
+# 🎯 Project Objective
 
-🎯 Project Objective
-The main objective of this project is to assist students in selecting appropriate university departments by:
+The main objective of this project is to help students select the right university department by:
 
-Displaying available departments
-Providing detailed department descriptions
-Recommending suitable departments
-Saving recommendation history
-Managing data online using Firebase
-🛠 Technologies Used
-Android Studio
-Java
-XML
-Firebase
-RecyclerView
-Material Design
-🔥 Firebase Features Used
-The project uses Firebase for online data storage and retrieval.
+* Displaying available departments
+* Providing detailed department descriptions
+* Recommending suitable departments
+* Saving recommendation history
+* Managing student data online using Firebase
 
-Firebase Services
-Firebase Realtime Database / Firestore
-Firebase Authentication (optional)
+# 🛠 Technologies Used
 
-📋 Main Features
-1. View Departments
+The application was developed using the following technologies:
+* Java
+* XML
+* RecyclerView
+* Material Design
+
+# 🔥 Firebase Features Used
+
+The project uses firebase for online data storage and retrieval.
+
+### Firebase Services
+
+* Firebase Realtime Database / Firestore
+* Firebase Authentication (Optional)
+
+# 📋 Main Features
+
+## 1️⃣ View Departments
+
 Students can:
 
-browse departments
-view department names
-access department details
-2. Department Details
-Displays:
+* Browse available departments
+* View department names
+* Access department details
 
-department description
-career opportunities
-related skills
-3. Questionnaire System
+
+## 2️⃣ Department Details
+
+The application displays:
+
+* Department descriptions
+* Career opportunities
+* Related skills
+
+
+## 3️⃣ Questionnaire System
+
 Students answer questions based on:
 
-interests
-skills
-preferences
-4. Department Recommendation
-The application analyzes answers and recommends:
+* Interests
+* Skills
+* Preferences
 
-best department
-matching career path
-5. History Management
+
+## 4️⃣ Department Recommendation
+
+The application analyzes user answers and recommends:
+
+* The best department
+* Matching career paths
+
+
+## 5️⃣ History Management
+
 Students can:
 
-view previous recommendations
-access saved results
+* View previous recommendations
+* Access saved results
 
-⚙️ How the Application Works
-User opens the application
-App connects to Firebase
-Departments are retrieved
-User answers questionnaire
-App generates recommendation
-Recommendation is saved in Firebase
-User can view history
-🎨 User Interface
+# ⚙️ How the Application Works
+
+1. User opens the application
+2. The app connects to Firebase
+3. Departments are retrieved from the database
+4. User answers the questionnaire
+5. The application generates a recommendation
+6. Recommendation results are saved in Firebase
+7. User can view recommendation history
+
+
+# 🎨 User Interface
+
 The application uses:
 
-Material Design principles
-CardView layouts
-RecyclerView lists
-Simple beginner-friendly navigation
-🚀 Installation Guide
-Requirements
-Android Studio
-Android SDK
-Firebase account
-Internet connection
-Steps
-Clone or download the project
-Open project in Android Studio
-Connect Firebase to the project
-Add google-services.json
-Sync Gradle files
-Run the application
-👨‍💻 Developed By
+* Material Design principles
+* CardView layouts
+* RecyclerView lists
+* Simple and beginner-friendly navigation
+
+
+# 🚀 Installation Guide
+
+## Requirements
+
+* Android SDK
+* Internet connection
+
+## Installation Steps
+
+1. Clone or download the project
+2. Open the project in Android Studio
+3. Connect Firebase to the project
+4. Add the `google-services.json` file
+5. Sync Gradle files
+6. Run the application
+
+# 👨‍💻 Developed By
+
 Mekdes Berhe
 
-📄 License
-This project is for educational and academic purposes only.
+# 📄 License
+
+This project is developed for educational and academic purposes only.
